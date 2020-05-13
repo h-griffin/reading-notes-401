@@ -10,10 +10,10 @@ Additional Resources
 ## Additional Resources
 - [Season 1, Episode 6, A friendly intro to Big O Notation](https://www.codenewbie.org/basecs/8)
 
-## Videos
+### Videos
 - [Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
 
-## Bookmark/Skim
+### Bookmark/Skim
 - [Awesome Python Environment](https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5)
 
 - [Python Module of the Week](https://pymotw.com/3/index.html)

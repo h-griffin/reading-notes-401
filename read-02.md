@@ -9,9 +9,9 @@
 - [Recursion](https://www.geeksforgeeks.org/recursion/)
 
 ## Additional Resources
-## Videos
+### Videos
 - [Optional Python Modules and Packages Companion Video](https://realpython.com/courses/python-modules-packages/)
 
-## Bookmark/Skim
+### Bookmark/Skim
 - [Read: Google for Education: Python Lists](https://developers.google.com/edu/python/lists)
 - [Read: Google for Education: Python Strings](https://developers.google.com/edu/python/strings)

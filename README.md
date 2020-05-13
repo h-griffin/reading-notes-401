@@ -6,6 +6,10 @@ holds reading notes for 401 python
 
 - [read-01](https://h-griffin.github.io/reading-notes-401/read-01)
 - [read-02](https://h-griffin.github.io/reading-notes-401/read-02)
+- [read-03](https://h-griffin.github.io/reading-notes-401/read-03)
+- [read-04](https://h-griffin.github.io/reading-notes-401/read-04)
+- [read-05](https://h-griffin.github.io/reading-notes-401/read-05)
+- [read-06](https://h-griffin.github.io/reading-notes-401/read-06)
 
 ## links and recourses 
 ### read-01
@@ -26,6 +30,12 @@ Additional Resources
 - [Optional Python Modules and Packages Companion Video](https://realpython.com/courses/python-modules-packages/)
 - [Read: Google for Education: Python Lists](https://developers.google.com/edu/python/lists)
 - [Read: Google for Education: Python Strings](https://developers.google.com/edu/python/strings)
+
+### read-04
+- [Read & Write Files in Python](https://realpython.com/read-write-files-python/)
+- [Exceptions in Python](https://realpython.com/python-exceptions/)
+- [Read & Write Files in Python - Companion Video](https://realpython.com/courses/reading-and-writing-files-python/)
+- [Reading and Writing Files in Python Quiz](https://realpython.com/quizzes/read-write-files-python/)
 
 ## Welcome to GitHub Pages
 
