@@ -31,11 +31,18 @@ Additional Resources
 - [Read: Google for Education: Python Lists](https://developers.google.com/edu/python/lists)
 - [Read: Google for Education: Python Strings](https://developers.google.com/edu/python/strings)
 
-### read-04
+### read-03
 - [Read & Write Files in Python](https://realpython.com/read-write-files-python/)
 - [Exceptions in Python](https://realpython.com/python-exceptions/)
 - [Read & Write Files in Python - Companion Video](https://realpython.com/courses/reading-and-writing-files-python/)
 - [Reading and Writing Files in Python Quiz](https://realpython.com/quizzes/read-write-files-python/)
+
+### read-04
+- [Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)
+- [Thinking Recursively](https://realpython.com/python-thinking-recursively/)
+  - Optional: Naive Recursion is Naive section and beyond
+- [Pytest Fixtures and Coverage](https://www.linuxjournal.com/content/python-testing-pytest-fixtures-and-coverage)
+- [Pytest Fixtures](https://docs.pytest.org/en/latest/fixture.html)
 
 ## Welcome to GitHub Pages
 
