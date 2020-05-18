@@ -48,3 +48,9 @@ Additional Resources
 - [Linked Lists](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
 - [What’s a Linked List, Anyway pt1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 - [What’s a Linked List, Anyway pt2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
+
+## read-06
+- [How to use Random Module](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python)
+- [What is Dependency Injection](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
+- [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
+- [Python Random](https://docs.python.org/3/library/random.html)
