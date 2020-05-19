@@ -10,6 +10,7 @@ holds reading notes for 401 python
 - [read-04](https://h-griffin.github.io/reading-notes-401/read-04)
 - [read-05](https://h-griffin.github.io/reading-notes-401/read-05)
 - [read-06](https://h-griffin.github.io/reading-notes-401/read-06)
+- [read-07](https://h-griffin.github.io/reading-notes-401/read-07)
 
 ## links and recourses 
 ### read-01
@@ -54,3 +55,10 @@ Additional Resources
 - [What is Dependency Injection](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
 - [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
 - [Python Random](https://docs.python.org/3/library/random.html)
+
+## read-07
+- NOTE This is a long reading. The portion to make sure you cover is on global and nonlocal keywords. You can skim the rest.
+- [Python Scope](https://realpython.com/python-scope-legb-rule/)
+- NOTE* The repeated Big O content is intentional. This is a big concept and worth hearing about from multiple presenters. TIP: watch on faster speed if you like.
+- [Don’t be CONFUSED by BIG O notation anymore!](https://www.youtube.com/watch?v=5Uqawfl0VHQ)
+- [Rolling Dice Examples](https://artofproblemsolving.com/wiki/index.php/Basic_Programming_With_Python#Program_Example_1_3)
