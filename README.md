@@ -4,6 +4,7 @@ holds reading notes for 401 python
 
 ## Author : Haley Griffin 
 
+# Table of Contents
 - [read-01](https://h-griffin.github.io/reading-notes-401/read-01)
 - [read-02](https://h-griffin.github.io/reading-notes-401/read-02)
 - [read-03](https://h-griffin.github.io/reading-notes-401/read-03)
@@ -11,6 +12,8 @@ holds reading notes for 401 python
 - [read-05](https://h-griffin.github.io/reading-notes-401/read-05)
 - [read-06](https://h-griffin.github.io/reading-notes-401/read-06)
 - [read-07](https://h-griffin.github.io/reading-notes-401/read-07)
+- [read-08](https://h-griffin.github.io/reading-notes-401/read-08)
+- [read-09](https://h-griffin.github.io/reading-notes-401/read-09)
 
 ## links and recourses 
 ### read-01
@@ -62,3 +65,14 @@ Additional Resources
 - NOTE* The repeated Big O content is intentional. This is a big concept and worth hearing about from multiple presenters. TIP: watch on faster speed if you like.
 - [Don’t be CONFUSED by BIG O notation anymore!](https://www.youtube.com/watch?v=5Uqawfl0VHQ)
 - [Rolling Dice Examples](https://artofproblemsolving.com/wiki/index.php/Basic_Programming_With_Python#Program_Example_1_3)
+
+## read-08
+- [List Comprehensions](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+- [Primer on Generators](https://realpython.com/primer-on-python-decorators/)
+- [Listen (optional): Debugging with PySnooper](https://www.pythonpodcast.com/pysnooper-python-debugging-episode-241/)
+
+## read-09
+- [Statistics - Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
+- [Intro to Statistics](https://www.youtube.com/watch?v=MdHtK7CWpCQ)
+- [AI Guru makes $238,800 with misleading paid course. doesn’t credit developers](https://www.youtube.com/watch?v=7jmBE4yPrOs)
+- [Statistics Module](https://docs.python.org/3/library/statistics.html)
