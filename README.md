@@ -14,6 +14,8 @@ holds reading notes for 401 python
 - [read-07](https://h-griffin.github.io/reading-notes-401/read-07)
 - [read-08](https://h-griffin.github.io/reading-notes-401/read-08)
 - [read-09](https://h-griffin.github.io/reading-notes-401/read-09)
+- [read-11](https://h-griffin.github.io/reading-notes-401/read-11)
+- [read-12](https://h-griffin.github.io/reading-notes-401/read-12)
 
 ## links and recourses 
 ### read-01
