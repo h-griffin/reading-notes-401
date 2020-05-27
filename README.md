@@ -76,3 +76,17 @@ Additional Resources
 - [Intro to Statistics](https://www.youtube.com/watch?v=MdHtK7CWpCQ)
 - [AI Guru makes $238,800 with misleading paid course. doesn’t credit developers](https://www.youtube.com/watch?v=7jmBE4yPrOs)
 - [Statistics Module](https://docs.python.org/3/library/statistics.html)
+
+## read-11
+- [Data Science in a Nutshell](https://headstrait.com/data-science-in-a-nutshell/)
+- [What is Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
+- [Numpy Tutorial](https://www.dataquest.io/blog/numpy-tutorial-python/)
+Watch the video linked inside What is is Jupyter Lab reading
+- [Numpy Arrays](https://www.tutorialspoint.com/numpy/index.htm)
+
+## read-12
+- [Pandas in 10](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+- [Pandas - Getting Started](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html)
+- [Real Python - Pandas Tutorials](https://realpython.com/learning-paths/pandas-data-science/)
+- [What is Pandas](https://www.youtube.com/watch?v=dcqPhpY7tWk&t=391s)
+- [Master Pandas](https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386)
