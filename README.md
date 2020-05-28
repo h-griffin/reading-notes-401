@@ -16,6 +16,7 @@ holds reading notes for 401 python
 - [read-09](https://h-griffin.github.io/reading-notes-401/read-09)
 - [read-11](https://h-griffin.github.io/reading-notes-401/read-11)
 - [read-12](https://h-griffin.github.io/reading-notes-401/read-12)
+- [read-13](https://h-griffin.github.io/reading-notes-401/read-13)
 
 ## links and recourses 
 ### read-01
@@ -55,40 +56,46 @@ Additional Resources
 - [What’s a Linked List, Anyway pt1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 - [What’s a Linked List, Anyway pt2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
 
-## read-06
+### read-06
 - [How to use Random Module](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python)
 - [What is Dependency Injection](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
 - [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
 - [Python Random](https://docs.python.org/3/library/random.html)
 
-## read-07
+### read-07
 - NOTE This is a long reading. The portion to make sure you cover is on global and nonlocal keywords. You can skim the rest.
 - [Python Scope](https://realpython.com/python-scope-legb-rule/)
 - NOTE* The repeated Big O content is intentional. This is a big concept and worth hearing about from multiple presenters. TIP: watch on faster speed if you like.
 - [Don’t be CONFUSED by BIG O notation anymore!](https://www.youtube.com/watch?v=5Uqawfl0VHQ)
 - [Rolling Dice Examples](https://artofproblemsolving.com/wiki/index.php/Basic_Programming_With_Python#Program_Example_1_3)
 
-## read-08
+### read-08
 - [List Comprehensions](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 - [Primer on Generators](https://realpython.com/primer-on-python-decorators/)
 - [Listen (optional): Debugging with PySnooper](https://www.pythonpodcast.com/pysnooper-python-debugging-episode-241/)
 
-## read-09
+### read-09
 - [Statistics - Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
 - [Intro to Statistics](https://www.youtube.com/watch?v=MdHtK7CWpCQ)
 - [AI Guru makes $238,800 with misleading paid course. doesn’t credit developers](https://www.youtube.com/watch?v=7jmBE4yPrOs)
 - [Statistics Module](https://docs.python.org/3/library/statistics.html)
 
-## read-11
+### read-11
 - [Data Science in a Nutshell](https://headstrait.com/data-science-in-a-nutshell/)
 - [What is Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 - [Numpy Tutorial](https://www.dataquest.io/blog/numpy-tutorial-python/)
 Watch the video linked inside What is is Jupyter Lab reading
 - [Numpy Arrays](https://www.tutorialspoint.com/numpy/index.htm)
 
-## read-12
+### read-12
 - [Pandas in 10](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 - [Pandas - Getting Started](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html)
 - [Real Python - Pandas Tutorials](https://realpython.com/learning-paths/pandas-data-science/)
 - [What is Pandas](https://www.youtube.com/watch?v=dcqPhpY7tWk&t=391s)
 - [Master Pandas](https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386)
+
+### read-13
+- [How to Run Linear Regression in Python](http://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/)
+- [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
+- [Train & Test Splits] (https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
+- [What is Linear Regression](https://www.statisticssolutions.com/what-is-linear-regression/)
