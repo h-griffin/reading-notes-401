@@ -103,3 +103,8 @@ Watch the video linked inside What is is Jupyter Lab reading
 
 ### read-14
 - [Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
+
+### read-15
+- [Matplotlib Tutorial](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
+- [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
+- [Bokeh Tutorial](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
