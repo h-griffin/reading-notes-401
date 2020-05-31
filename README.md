@@ -17,6 +17,7 @@ holds reading notes for 401 python
 - [read-11](https://h-griffin.github.io/reading-notes-401/read-11)
 - [read-12](https://h-griffin.github.io/reading-notes-401/read-12)
 - [read-13](https://h-griffin.github.io/reading-notes-401/read-13)
+- [read-14](https://h-griffin.github.io/reading-notes-401/read-14)
 
 ## links and recourses 
 ### read-01
@@ -99,3 +100,6 @@ Watch the video linked inside What is is Jupyter Lab reading
 - [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
 - [Train & Test Splits] (https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 - [What is Linear Regression](https://www.statisticssolutions.com/what-is-linear-regression/)
+
+### read-14
+- [Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
