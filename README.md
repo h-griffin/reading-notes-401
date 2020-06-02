@@ -18,6 +18,9 @@ holds reading notes for 401 python
 - [read-12](https://h-griffin.github.io/reading-notes-401/read-12)
 - [read-13](https://h-griffin.github.io/reading-notes-401/read-13)
 - [read-14](https://h-griffin.github.io/reading-notes-401/read-14)
+- [read-15](https://h-griffin.github.io/reading-notes-401/read-15)
+- [read-16](https://h-griffin.github.io/reading-notes-401/read-16)
+
 
 ## links and recourses 
 ### read-01
@@ -108,3 +111,9 @@ Watch the video linked inside What is is Jupyter Lab reading
 - [Matplotlib Tutorial](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
 - [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
 - [Bokeh Tutorial](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
+
+### read-16
+- [Web Scrape with Python in 4 minutes](https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460)
+- [What is Web Scraping?](https://en.wikipedia.org/wiki/Web_scraping)
+- [Track Amazon Prices](https://www.youtube.com/watch?v=Bg9r_yLk7VY)
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
