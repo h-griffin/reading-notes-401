@@ -117,3 +117,17 @@ Watch the video linked inside What is is Jupyter Lab reading
 - [What is Web Scraping?](https://en.wikipedia.org/wiki/Web_scraping)
 - [Track Amazon Prices](https://www.youtube.com/watch?v=Bg9r_yLk7VY)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+
+### read-18
+- [Ceasar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+- [Cryptography Crash Course](https://www.youtube.com/watch?v=jhXCTbFnK8o)
+- [Introduction to Cryptography](https://thebestvpn.com/cryptography/)
+- [diffie-hellman image](/assets/diffie-hellman.png)
+
+## read-19
+- [Python Regular Expressions Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
+- [shutil](https://pymotw.com/3/shutil/)
+- [Automation Ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0&t=69s)
+- [Optional: Automating Your Browser and Desktop Apps](https://www.youtube.com/watch?v=dZLyfbSQPXI)
+- [Watchdog](https://pythonhosted.org/watchdog/)
+
