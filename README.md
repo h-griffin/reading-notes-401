@@ -20,7 +20,8 @@ holds reading notes for 401 python
 - [read-14](https://h-griffin.github.io/reading-notes-401/read-14)
 - [read-15](https://h-griffin.github.io/reading-notes-401/read-15)
 - [read-16](https://h-griffin.github.io/reading-notes-401/read-16)
-
+- [read-18](https://h-griffin.github.io/reading-notes-401/read-18)
+- [read-19](https://h-griffin.github.io/reading-notes-401/read-19)
 
 ## links and recourses 
 ### read-01
