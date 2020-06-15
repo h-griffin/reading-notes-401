@@ -1,5 +1,5 @@
-# read-18
-### 4 june 2020
+# read-19
+### 5 june 2020
 
 ## Reading
 - [Python Regular Expressions Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
