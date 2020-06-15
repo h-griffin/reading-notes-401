@@ -22,6 +22,7 @@ holds reading notes for 401 python
 - [read-16](https://h-griffin.github.io/reading-notes-401/read-16)
 - [read-18](https://h-griffin.github.io/reading-notes-401/read-18)
 - [read-19](https://h-griffin.github.io/reading-notes-401/read-19)
+- [read-20](https://h-griffin.github.io/reading-notes-401/read-20)
 
 ## links and recourses 
 ### read-01
@@ -125,10 +126,16 @@ Watch the video linked inside What is is Jupyter Lab reading
 - [Introduction to Cryptography](https://thebestvpn.com/cryptography/)
 - [diffie-hellman image](/assets/diffie-hellman.png)
 
-## read-19
+### read-19
 - [Python Regular Expressions Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
 - [shutil](https://pymotw.com/3/shutil/)
 - [Automation Ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0&t=69s)
 - [Optional: Automating Your Browser and Desktop Apps](https://www.youtube.com/watch?v=dZLyfbSQPXI)
 - [Watchdog](https://pythonhosted.org/watchdog/)
 
+### read-20
+- [Getting started with Django](https://www.djangoproject.com/start/)
+- [How Django Works Behind the Scenes](https://wsvincent.com/how-django-works-behind-the-scenes/)
+- [What is Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
+- [First Django App - Part 1](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+- [First Django App - Part 2](https://docs.djangoproject.com/en/3.0/intro/tutorial02/)
