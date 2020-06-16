@@ -23,12 +23,12 @@ holds reading notes for 401 python
 - [read-18](https://h-griffin.github.io/reading-notes-401/read-18)
 - [read-19](https://h-griffin.github.io/reading-notes-401/read-19)
 - [read-20](https://h-griffin.github.io/reading-notes-401/read-20)
+- [read-21](https://h-griffin.github.io/reading-notes-401/read-21)
 
 ## links and recourses 
 ### read-01
 - [Pain and Suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
 - [Beginners Guide to Big O](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
-Additional Resources
 - [Season 1, Episode 6, A friendly intro to Big O Notation](https://www.codenewbie.org/basecs/8)
 - [Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
 - [Awesome Python Environment](https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5)
@@ -38,7 +38,6 @@ Additional Resources
 - [Python Modules and Packages](https://realpython.com/python-modules-packages/)
 - [Pytest Documentation](https://docs.pytest.org/en/latest/)
 - [PyTest Tutorial](https://www.guru99.com/pytest-tutorial.html) 
-- - Up to section Running tests in parallel
 - [Recursion](https://www.geeksforgeeks.org/recursion/)
 - [Optional Python Modules and Packages Companion Video](https://realpython.com/courses/python-modules-packages/)
 - [Read: Google for Education: Python Lists](https://developers.google.com/edu/python/lists)
@@ -53,7 +52,6 @@ Additional Resources
 ### read-04
 - [Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)
 - [Thinking Recursively](https://realpython.com/python-thinking-recursively/)
-  - Optional: Naive Recursion is Naive section and beyond
 - [Pytest Fixtures and Coverage](https://www.linuxjournal.com/content/python-testing-pytest-fixtures-and-coverage)
 - [Pytest Fixtures](https://docs.pytest.org/en/latest/fixture.html)
 
@@ -69,9 +67,7 @@ Additional Resources
 - [Python Random](https://docs.python.org/3/library/random.html)
 
 ### read-07
-- NOTE This is a long reading. The portion to make sure you cover is on global and nonlocal keywords. You can skim the rest.
 - [Python Scope](https://realpython.com/python-scope-legb-rule/)
-- NOTE* The repeated Big O content is intentional. This is a big concept and worth hearing about from multiple presenters. TIP: watch on faster speed if you like.
 - [Don’t be CONFUSED by BIG O notation anymore!](https://www.youtube.com/watch?v=5Uqawfl0VHQ)
 - [Rolling Dice Examples](https://artofproblemsolving.com/wiki/index.php/Basic_Programming_With_Python#Program_Example_1_3)
 
@@ -90,7 +86,6 @@ Additional Resources
 - [Data Science in a Nutshell](https://headstrait.com/data-science-in-a-nutshell/)
 - [What is Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 - [Numpy Tutorial](https://www.dataquest.io/blog/numpy-tutorial-python/)
-Watch the video linked inside What is is Jupyter Lab reading
 - [Numpy Arrays](https://www.tutorialspoint.com/numpy/index.htm)
 
 ### read-12
@@ -103,7 +98,7 @@ Watch the video linked inside What is is Jupyter Lab reading
 ### read-13
 - [How to Run Linear Regression in Python](http://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/)
 - [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
-- [Train & Test Splits] (https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
+- [Train & Test Splits](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 - [What is Linear Regression](https://www.statisticssolutions.com/what-is-linear-regression/)
 
 ### read-14
