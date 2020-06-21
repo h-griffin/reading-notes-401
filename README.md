@@ -24,6 +24,9 @@ holds reading notes for 401 python
 - [read-19](https://h-griffin.github.io/reading-notes-401/read-19)
 - [read-20](https://h-griffin.github.io/reading-notes-401/read-20)
 - [read-21](https://h-griffin.github.io/reading-notes-401/read-21)
+- [read-22](https://h-griffin.github.io/reading-notes-401/read-22)
+- [read-23](https://h-griffin.github.io/reading-notes-401/read-23)
+- [read-24](https://h-griffin.github.io/reading-notes-401/read-24)
 
 ## links and recourses 
 ### read-01
@@ -140,4 +143,21 @@ holds reading notes for 401 python
 - [Django Admin](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site)
 - [Read (Optional): Beginner’s Guide to Django - Part 1](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html)
 - [Beginner’s Guide to Django - Part 2](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
+
+### read-22
+- [Django Forms](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms)
+- [Review/Skim: Django Templates](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page)
+- [Review/Skim: Django Views](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views)
+
+### read-23
+- [Django Custum User Model](https://learndjango.com/tutorials/django-custom-user-model)
+- [Creating a Custom User Moel](https://www.youtube.com/watch?v=eCeRC7E8Z7Y&t=59s)
+- [Abstract User, User Profile and Signals in Django](https://www.youtube.com/watch?v=EudKs1HPUfE)
+- [Substituting a custom User model](https://docs.djangoproject.com/en/3.0/topics/auth/customizing/#auth-custom-user)
+
+### read-24
+- [Intro to Hash Tables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
+- [what is a hash table?](https://www.youtube.com/watch?v=MfhjkfocRR0)
+- [basics of hash tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+- [hash table wiki](https://en.wikipedia.org/wiki/Hash_table)
 
