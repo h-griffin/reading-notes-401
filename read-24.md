@@ -7,6 +7,8 @@ hash tables take advantage of an arrays **O(1) look up time**, when given a key:
 
 to create a hash code, set a length to an array, such as 1024. then add or multiply all the ASCII values togehter and multiply it by a prime number. then use modulo to to get the remainder after dividing my the length of the array, this give what index it will be stored at. 
 
+a collision is when different keys link to the same 'bucket' the string 'JB' and 'BJ' will have the same hash code. the hash table stores the value with the key by appending to the end of a linked list, and searches for the node with the value to ensure the correct value is returned with the hash code.
+
 - Watch [what is a hash table?](https://www.youtube.com/watch?v=MfhjkfocRR0)
 - Read [basics of hash tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
 - Skim [hash table wiki](https://en.wikipedia.org/wiki/Hash_table)
