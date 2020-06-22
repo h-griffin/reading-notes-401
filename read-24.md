@@ -3,6 +3,7 @@
 
 ###  Resources
 - Read [Intro to Hash Tables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
+
 hash tables take advantage of an arrays **O(1) look up time**, when given a key:value pair, it converts the key string into a hash number, and sotres that key as an index, this allowes the hash table to to skip itterating through the entire array to check if the key:value pair is the one that was searched for, each hash code is unique. searching through an array with a for loop has an **O(N) look up time** becuse the length of the list/array is unkown. while each key is uniwu, the hash code is created only from the input, not random, the same input receives the same hash code. 
 
 to create a hash code, set a length to an array, such as 1024. then add or multiply all the ASCII values togehter and multiply it by a prime number. then use modulo to to get the remainder after dividing my the length of the array, this give what index it will be stored at. 
