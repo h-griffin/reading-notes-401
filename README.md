@@ -27,6 +27,8 @@ holds reading notes for 401 python
 - [read-22: Django forms](https://h-griffin.github.io/reading-notes-401/read-22)
 - [read-23: Django Custom user](https://h-griffin.github.io/reading-notes-401/read-23)
 - [read-24: Hash Tables](https://h-griffin.github.io/reading-notes-401/read-24)
+- [read-25: Docker](https://h-griffin.github.io/reading-notes-401/read-25)
+- [read-26: Permissions](https://h-griffin.github.io/reading-notes-401/read-26)
 
 ## links and recourses 
 ### read-01
@@ -161,3 +163,13 @@ holds reading notes for 401 python
 - [basics of hash tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
 - [hash table wiki](https://en.wikipedia.org/wiki/Hash_table)
 
+### read-25
+- [Beginner’s Guide to Docker](https://wsvincent.com/beginners-guide-to-docker/)
+- [Django for APIs - Library Website](https://djangoforapis.com/library-website-and-api/)
+- [Beginner’s Guide to Django REST Framework](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
+
+### read-26
+## Reading
+- [DRF Permissions](https://www.django-rest-framework.org/api-guide/permissions/)
+- [Classy Django REST](http://www.cdrf.co/)
+- [DRF Generic Views](https://www.django-rest-framework.org/api-guide/generic-views/)

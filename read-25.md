@@ -1,5 +1,5 @@
-# read-24
-### 19 june 2020
+# read-25
+### 22 june 2020
 
 ## Reading
 - [Beginner’s Guide to Docker](https://wsvincent.com/beginners-guide-to-docker/)
