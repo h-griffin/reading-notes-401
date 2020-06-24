@@ -29,6 +29,7 @@ holds reading notes for 401 python
 - [read-24: Hash Tables](https://h-griffin.github.io/reading-notes-401/read-24)
 - [read-25: Docker](https://h-griffin.github.io/reading-notes-401/read-25)
 - [read-26: Permissions](https://h-griffin.github.io/reading-notes-401/read-26)
+- [read-27: Web Tokens & Authentication](https://h-griffin.github.io/reading-notes-401/read-27)
 
 ## links and recourses 
 ### read-01
@@ -169,7 +170,13 @@ holds reading notes for 401 python
 - [Beginner’s Guide to Django REST Framework](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
 
 ### read-26
-## Reading
 - [DRF Permissions](https://www.django-rest-framework.org/api-guide/permissions/)
 - [Classy Django REST](http://www.cdrf.co/)
 - [DRF Generic Views](https://www.django-rest-framework.org/api-guide/generic-views/)
+
+## read-27
+- [JSON Web Tokens](https://jwt.io/introduction/)
+- [DRF JWT Authentication](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
+- [(Optional) JWT with DRF](https://www.youtube.com/watch?v=Fhcn2qx-4VQ)
+Bookmark/Skim
+- [Skim: Django Migrations Primer](https://realpython.com/django-migrations-a-primer/)
