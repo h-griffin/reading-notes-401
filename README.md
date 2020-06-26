@@ -2,7 +2,7 @@
 # reading-notes-401
 holds reading notes for 401 python 
 
-## Author : Haley Griffin 
+### Author : Haley Griffin 
 
 # Table of Contents
 - [read-01: Big O](https://h-griffin.github.io/reading-notes-401/read-01)
