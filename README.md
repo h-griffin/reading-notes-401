@@ -30,6 +30,7 @@ holds reading notes for 401 python
 - [read-25: Docker](https://h-griffin.github.io/reading-notes-401/read-25)
 - [read-26: Permissions](https://h-griffin.github.io/reading-notes-401/read-26)
 - [read-27: Web Tokens & Authentication](https://h-griffin.github.io/reading-notes-401/read-27)
+- [read-28: SSH & Django Settings](https://h-griffin.github.io/reading-notes-401/read-28)
 
 ## links and recourses 
 ### read-01
@@ -174,9 +175,17 @@ holds reading notes for 401 python
 - [Classy Django REST](http://www.cdrf.co/)
 - [DRF Generic Views](https://www.django-rest-framework.org/api-guide/generic-views/)
 
-## read-27
+### read-27
 - [JSON Web Tokens](https://jwt.io/introduction/)
 - [DRF JWT Authentication](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
 - [(Optional) JWT with DRF](https://www.youtube.com/watch?v=Fhcn2qx-4VQ)
 Bookmark/Skim
 - [Skim: Django Migrations Primer](https://realpython.com/django-migrations-a-primer/)
+
+### read-28
+- [Django Settings Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
+- [SSH Tutorial](https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work)
+- [Review/Skim: White Noise](http://whitenoise.evans.io/en/stable/)
+- [Skim: IaaS](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)
+- [Skim: PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service)
+- [Bookmark: CORS](https://en.m.wikipedia.org/wiki/Cross-origin_resource_sharing)
