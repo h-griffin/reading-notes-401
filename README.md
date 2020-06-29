@@ -31,6 +31,8 @@ holds reading notes for 401 python
 - [read-26: Permissions](https://h-griffin.github.io/reading-notes-401/read-26)
 - [read-27: Web Tokens & Authentication](https://h-griffin.github.io/reading-notes-401/read-27)
 - [read-28: SSH & Django Settings](https://h-griffin.github.io/reading-notes-401/read-28)
+- [read-29: Graphs](https://h-griffin.github.io/reading-notes-401/read-29)
+- [read-30: Interview tips](https://h-griffin.github.io/reading-notes-401/read-30)
 
 ## links and recourses 
 ### read-01
@@ -189,3 +191,13 @@ Bookmark/Skim
 - [Skim: IaaS](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)
 - [Skim: PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service)
 - [Bookmark: CORS](https://en.m.wikipedia.org/wiki/Cross-origin_resource_sharing)
+
+### read-29
+- [Read: Graphs](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html)
+
+### read-30
+- [Whiteboard Advice](https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a)
+- [6 Tips](https://blog.usejournal.com/6-tips-to-ace-a-whiteboard-programming-interview-f06c1b378bc6)
+- [Engineering Interview Process Deconstructed](https://www.youtube.com/watch?v=KdXAUst8bdo)
+
+
