@@ -1,6 +1,6 @@
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 # read-13
 ### 27 may 2020
-# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 # Reading
 - [How to Run Linear Regression in Python](http://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/)

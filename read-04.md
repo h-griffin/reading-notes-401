@@ -1,6 +1,6 @@
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 # read-04
 ### 13 may 2020
-# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 # Reading
 - [Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)

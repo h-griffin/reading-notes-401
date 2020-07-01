@@ -1,6 +1,6 @@
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 # read-15
 ### 31 may 2020
-# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 # Reading
 - [Web Scrape with Python in 4 minutes](https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460)

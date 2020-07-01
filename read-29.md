@@ -1,6 +1,6 @@
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 # read-29
 ### 26 june 2020
-# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 
 # Reading

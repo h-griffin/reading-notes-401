@@ -1,6 +1,6 @@
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 # read-30
 ### 28 june 2020
-# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 # Reading
 - [Whiteboard Advice](https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a)

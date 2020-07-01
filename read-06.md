@@ -1,6 +1,6 @@
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 # read-06
 ### 17 may 2020
-# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 # Reading
 - [How to use Random Module](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python)

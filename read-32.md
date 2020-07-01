@@ -1,6 +1,6 @@
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 # read-31
 ### 29 june 2020
-# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 # Reading
 - [React - Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)

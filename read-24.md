@@ -1,6 +1,6 @@
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 # read-24
 ### 19 june 2020
-# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 # Reading
 - Read [Intro to Hash Tables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)

@@ -1,6 +1,6 @@
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 # read-14
 ### 28 may 2020
-# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 # Read: 
 - [Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
