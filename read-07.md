@@ -2,7 +2,7 @@
 ### 18 may 2020
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
-## Reading
+# Reading
 - NOTE This is a long reading. The portion to make sure you cover is on global and nonlocal keywords. You can skim the rest.
 - [Python Scope](https://realpython.com/python-scope-legb-rule/)
 

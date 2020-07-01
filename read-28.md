@@ -2,7 +2,7 @@
 ### 25 june 2020
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
-## Reading
+# Reading
 - [Django Settings Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
 use vcs to share secret keys with otehr developers. have a seperate file for each environment. for example a settings foler with files: base.py ci.py local.py staging.py production.py qa.py to save settings for each environment
 

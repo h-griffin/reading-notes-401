@@ -2,7 +2,7 @@
 ### 16 june 2020
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
-## reading
+# Reading
 - [Using Models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 models for books would be large shared inforation or **objects**, like books, book instances, and authors. models may also represent something you would put in a drop down list of choises, like genre or language. the a model can have any number of feilds (like a table) you import models from django.db import and create it as a class and inherit models.Model the fields are then declared in teh class along with nay metadata and methods 
 

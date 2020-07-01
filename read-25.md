@@ -2,7 +2,7 @@
 ### 22 june 2020
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
-## Reading
+# Reading
 - [Beginner’s Guide to Docker](https://wsvincent.com/beginners-guide-to-docker/)
 
 virtual environments let you user specific version of certain dependenciesin multiple projects on the same machine. however they can onnly isolate python because they rely on global installs. docker is automatically installed in mac and windows, 

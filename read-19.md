@@ -2,7 +2,7 @@
 ### 5 june 2020
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
-## Reading
+# Reading
 - [Python Regular Expressions Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
 import re to use regex, re.match(pattern, sequence). ignore reserved chararacters 
 -'.' looks for any character except for a new line while '\.' looks for a period.

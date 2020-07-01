@@ -2,7 +2,7 @@
 ### 17 june 2020
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
-## Reading
+# Reading
 - [Django Forms](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms)
 
 ## Bookmark/Skim

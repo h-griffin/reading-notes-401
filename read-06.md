@@ -2,7 +2,7 @@
 ### 17 may 2020
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
-## Reading
+# Reading
 - [How to use Random Module](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python)
 - [What is Dependency Injection](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
 

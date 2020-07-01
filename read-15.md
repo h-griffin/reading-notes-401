@@ -2,7 +2,7 @@
 ### 31 may 2020
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
-## Reading
+# Reading
 - [Matplotlib Tutorial](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
 by rougier on github, you can plot data, and set colors to each line, as well as line height and color, right after you give the values to plot, 
 ``` plt.figure(figsize=(10,6), dpi=80)

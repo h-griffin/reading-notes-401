@@ -2,7 +2,7 @@
 ### 4 june 2020
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
-## Reading
+# Reading
 - [Ceasar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 the ceasar cipher was named afte julias ceasar who used it during the roman era, using shifst. 
 the ceasar cipher is a default of 3 shifts, however can be reffered to as a cipher that uses shifts as its key. to encrypt the plain text it shifts the letters or numbers by an agreed upon shift ammount or key. to decrypt the message you must know the correct shift value or key. 

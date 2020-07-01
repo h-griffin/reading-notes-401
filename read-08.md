@@ -2,7 +2,7 @@
 ### 19 may 2020
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
-## Reading
+# Reading
 - [List Comprehensions](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 a new way of interacting with lists, ratehr than 
 ```for item in list:

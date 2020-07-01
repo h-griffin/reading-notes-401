@@ -2,7 +2,7 @@
 ### 24 june 2020
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
-## Reading
+# Reading
 - [JSON Web Tokens](https://jwt.io/introduction/)
 tokens provide a way to authenticate a user and can be signed by 2 parties. they have a header, which contains the type of token and what kind of signing algorithm was used. teh payload contains the claims, which would be registered public or private. teh signature is used to verify the message wasnt changes along the way. 
 
