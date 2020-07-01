@@ -33,6 +33,8 @@ holds reading notes for 401 python
 - [read-28: SSH & Django Settings](https://h-griffin.github.io/reading-notes-401/read-28)
 - [read-29: Graphs](https://h-griffin.github.io/reading-notes-401/read-29)
 - [read-30: Interview tips](https://h-griffin.github.io/reading-notes-401/read-30)
+- [read-31: React I](https://h-griffin.github.io/reading-notes-401/read-31)
+- [read-32: React II](https://h-griffin.github.io/reading-notes-401/read-32)
 
 ## links and recourses 
 ### read-01
@@ -199,5 +201,26 @@ Bookmark/Skim
 - [Whiteboard Advice](https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a)
 - [6 Tips](https://blog.usejournal.com/6-tips-to-ace-a-whiteboard-programming-interview-f06c1b378bc6)
 - [Engineering Interview Process Deconstructed](https://www.youtube.com/watch?v=KdXAUst8bdo)
+
+### read-31
+- [ES6 Syntax and Feature Overview](https://www.taniarascia.com/es6-syntax-and-feature-overview/)
+- [React - Hello World](https://reactjs.org/docs/hello-world.html)
+- [React - JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [React - Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+- [React - Components & Props](https://reactjs.org/docs/components-and-props.html)
+- [React - State & Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+- [React - Handling Events](https://reactjs.org/docs/handling-events.html)
+- [React - Installation](https://reactjs.org/docs/create-a-new-react-app.html)
+- [(Optional): React - Comprehensive Guide](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+- [Understanding Variables, Scope, and Hoisting in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript)
+
+### read-32
+- [React - Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+- [React - Lists & Keys](https://reactjs.org/docs/lists-and-keys.html)
+- [React - Forms](https://reactjs.org/docs/forms.html)
+- [React - Lifting State](https://reactjs.org/docs/lifting-state-up.html)
+- [React - Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [Review (Optional): React - Comprehensive Guide](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 
 
