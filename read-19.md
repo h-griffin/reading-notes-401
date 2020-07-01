@@ -21,5 +21,6 @@ aids in copying an darchiving files. iport shutil you can use shutil.copytree('.
 ## Videos
 - [Automation Ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0&t=69s)
 - [Optional: Automating Your Browser and Desktop Apps](https://www.youtube.com/watch?v=dZLyfbSQPXI)
+
 ## Bookmark/Skim
 - [Watchdog](https://pythonhosted.org/watchdog/)

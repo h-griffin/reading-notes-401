@@ -14,5 +14,4 @@
 Bookmark/Skim
 - [React - Installation](https://reactjs.org/docs/create-a-new-react-app.html)
 - [(Optional): React - Comprehensive Guide](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
-
 - [Understanding Variables, Scope, and Hoisting in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript)

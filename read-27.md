@@ -13,5 +13,6 @@ xxxx.yyyy.zzzz
 
 ## Videos
 - [(Optional) JWT with DRF](https://www.youtube.com/watch?v=Fhcn2qx-4VQ)
-Bookmark/Skim
+
+## Bookmark/Skim
 - [Skim: Django Migrations Primer](https://realpython.com/django-migrations-a-primer/)

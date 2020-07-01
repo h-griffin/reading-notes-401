@@ -12,5 +12,6 @@ you must first fetch the data so that it can be processed later. web scraping is
 
 ## Videos
 - [Track Amazon Prices](https://www.youtube.com/watch?v=Bg9r_yLk7VY)
+
 ## Bookmark/Skim
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)

@@ -9,6 +9,7 @@ install django, and start a project with django, much like creating a repo wiht 
 
 
 - [How Django Works Behind the Scenes](https://wsvincent.com/how-django-works-behind-the-scenes/)
+
 ## Bookmark/Skim
 - [What is Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
 - [First Django App - Part 1](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
