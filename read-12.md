@@ -1,5 +1,6 @@
 # read-12
 ### 26 may 2020
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 ## Reading
 - [Pandas in 10](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)

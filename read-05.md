@@ -1,5 +1,6 @@
 # read-05
 ### 14 may 2020
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 ## Reading
 - [Linked Lists](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)

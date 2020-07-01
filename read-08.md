@@ -1,5 +1,6 @@
 # read-08
 ### 19 may 2020
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 ## Reading
 - [List Comprehensions](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)

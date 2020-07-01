@@ -1,5 +1,6 @@
 # read-01
 ### 10 may 2020
+# [table of contents](https://h-griffin.github.io/reading-notes-401/)
 
 ## Reading
 - [Pain and Suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
