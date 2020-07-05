@@ -36,7 +36,7 @@ holds reading notes for 401 python
 - [read-31: React I](https://h-griffin.github.io/reading-notes-401/read-31)
 - [read-32: React II](https://h-griffin.github.io/reading-notes-401/read-32)
 
-## links and recourses 
+# links and recourses 
 ### read-01
 - [Pain and Suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
 - [Beginners Guide to Big O](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
