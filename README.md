@@ -35,6 +35,7 @@ holds reading notes for 401 python
 - [read-30: Interview tips](https://h-griffin.github.io/reading-notes-401/read-30)
 - [read-31: React I](https://h-griffin.github.io/reading-notes-401/read-31)
 - [read-32: React II](https://h-griffin.github.io/reading-notes-401/read-32)
+- [read-33: Security](https://h-griffin.github.io/reading-notes-401/read-33)
 
 # links and recourses 
 ### read-01
@@ -223,4 +224,10 @@ Bookmark/Skim
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [Review (Optional): React - Comprehensive Guide](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 
-
+### read-33
+- [Web Application Security](https://en.wikipedia.org/wiki/Web_application_security)
+- [Django Security](https://docs.djangoproject.com/en/3.0/topics/security/)
+- [Owasp Cheat Sheet](https://cheatsheetseries.owasp.org/)
+- [Hacksplaining: Lessons](https://www.hacksplaining.com/lessons)
+- [Owasp Top Ten](https://owasp.org/www-project-top-ten/)
+- [Hacksplaining: Lessons](https://www.hacksplaining.com/lessons)
