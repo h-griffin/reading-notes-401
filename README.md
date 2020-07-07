@@ -36,6 +36,7 @@ holds reading notes for 401 python
 - [read-31: React I](https://h-griffin.github.io/reading-notes-401/read-31)
 - [read-32: React II](https://h-griffin.github.io/reading-notes-401/read-32)
 - [read-33: Security](https://h-griffin.github.io/reading-notes-401/read-33)
+- [read-34: ElephantSQL](https://h-griffin.github.io/reading-notes-401/read-34)
 
 # links and recourses 
 ### read-01
@@ -231,3 +232,8 @@ Bookmark/Skim
 - [Hacksplaining: Lessons](https://www.hacksplaining.com/lessons)
 - [Owasp Top Ten](https://owasp.org/www-project-top-ten/)
 - [Hacksplaining: Lessons](https://www.hacksplaining.com/lessons)
+
+### read-34
+- [NextJS Deployment](https://nextjs.org/docs/deployment)
+- [Elephant SQL](https://www.elephantsql.com/)
+- [Docker on Heroku](https://devcenter.heroku.com/articles/build-docker-images-heroku-yml)
