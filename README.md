@@ -37,6 +37,7 @@ holds reading notes for 401 python
 - [read-32: React II](https://h-griffin.github.io/reading-notes-401/read-32)
 - [read-33: Security](https://h-griffin.github.io/reading-notes-401/read-33)
 - [read-34: ElephantSQL](https://h-griffin.github.io/reading-notes-401/read-34)
+- [read-35: Dunder Methods & Genorators](https://h-griffin.github.io/reading-notes-401/read-35)
 
 # links and recourses 
 ### read-01
@@ -237,3 +238,11 @@ Bookmark/Skim
 - [NextJS Deployment](https://nextjs.org/docs/deployment)
 - [Elephant SQL](https://www.elephantsql.com/)
 - [Docker on Heroku](https://devcenter.heroku.com/articles/build-docker-images-heroku-yml)
+
+### read-35
+- [Dunder Methods](https://dbader.org/blog/python-dunder-methods)
+- [Iterators](https://dbader.org/blog/python-iterators)
+- [Generators](https://dbader.org/blog/python-generators)
+- [Watch (Optional): What are Generators](https://realpython.com/lessons/what-are-python-generators/)
+- [Decorators](https://realpython.com/primer-on-python-decorators/)
+

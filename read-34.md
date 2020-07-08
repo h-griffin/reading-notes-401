@@ -1,6 +1,6 @@
 # [table of contents](https://h-griffin.github.io/reading-notes-401/)
-# read-32
-### 05 july 2020
+# read-34
+### 06 july 2020
 
 
 # Bookmark/Skim
