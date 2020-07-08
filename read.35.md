@@ -5,6 +5,8 @@
 # Reading
 - [Dunder Methods](https://dbader.org/blog/python-dunder-methods)
 
+use duner methods for classes that dont support built in functions, like string, or make your own len. the init creates/sets up or initializes objects from that class that it takes in. repr is very specific object info, while a str is for the end user, its looks nice and pretty. 
+
 - [Iterators](https://dbader.org/blog/python-iterators)
 
 - [Generators](https://dbader.org/blog/python-generators)
