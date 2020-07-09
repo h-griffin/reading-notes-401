@@ -38,6 +38,7 @@ holds reading notes for 401 python
 - [read-33: Security](https://h-griffin.github.io/reading-notes-401/read-33)
 - [read-34: ElephantSQL](https://h-griffin.github.io/reading-notes-401/read-34)
 - [read-35: Dunder Methods & Genorators](https://h-griffin.github.io/reading-notes-401/read-35)
+- [read-36: Django SASS](https://h-griffin.github.io/reading-notes-401/read-36)
 
 # links and recourses 
 ### read-01
@@ -246,3 +247,7 @@ Bookmark/Skim
 - [Watch (Optional): What are Generators](https://realpython.com/lessons/what-are-python-generators/)
 - [Decorators](https://realpython.com/primer-on-python-decorators/)
 
+### read-36
+- [Django SASS Processor](https://github.com/jrief/django-sass-processor#introduction)
+- [SASS Language Introduction](https://sass-lang.com/guide)
+- [SMACSS Docs](https://smacss.com/)
